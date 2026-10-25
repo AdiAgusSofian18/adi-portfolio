@@ -1,7 +1,7 @@
 const translations = {
   id: {
     navAbout:"Tentang",navSkills:"Keahlian",navProjects:"Proyek",navExperience:"Pengalaman",navContact:"Kontak",
-    available:"",hello:"Halo, saya",roleLead:"IT Professional",roleSub:"IT infrastructure & Hospitality Technology",
+    available:"",hello:"Halo, saya",roleLead:"IT infrastructure & Hospitality Technology",roleSub:"",
     heroDescription:"Menggabungkan teknologi, kreativitas, dan pemecahan masalah untuk membangun solusi digital yang bermanfaat.",
     seeProjects:"Lihat Proyek",downloadCV:"Unduh CV",contactMe:"Hubungi Saya ↗",profileTitle:"IT Professional",detailOriented:"Berorientasi pada detail",
     scrollExplore:"GULIR UNTUK MENJELAJAH",aboutLabel:"PROFIL",aboutTitle:'Tentang <span class="gradient-text">Saya</span>',
@@ -23,7 +23,7 @@ const translations = {
   },
   en: {
     navAbout:"About",navSkills:"Skills",navProjects:"Projects",navExperience:"Experience",navContact:"Contact",
-    available:"",hello:"Hello, I'm",roleLead:"IT Professional",roleSub:"IT infrastructure & Hospitality Technology",
+    available:"",hello:"Hello, I'm",roleLead:"IT infrastructure & Hospitality Technology",roleSub:"",
     heroDescription:"Combining technology, creativity, and problem-solving to build useful digital solutions.",
     seeProjects:"View Projects",downloadCV:"Download CV",contactMe:"Contact Me ↗",profileTitle:"IT Professional",detailOriented:"Detail-oriented",
     scrollExplore:"SCROLL TO EXPLORE",aboutLabel:"PROFILE",aboutTitle:'About <span class="gradient-text">Me</span>',
