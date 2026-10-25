@@ -60,7 +60,7 @@ function setLanguage(language) {
   });
   languageSwitch.innerHTML = language === "id" ? "<strong>ID</strong> <span>/</span> EN" : "ID <span>/</span> <strong>EN</strong>";
   languageSwitch.setAttribute("aria-label", language === "id" ? "Switch language to English" : "Ganti bahasa ke Indonesia");
-  document.title = language === "id" ? "Adi Agus Sofian |IT infrastructure & Hospitality Technology" : "Adi Agus Sofian |IT infrastructure & Hospitality Technology";
+  document.title = language === "id" ? "Adi Agus Sofian | IT infrastructure & Hospitality Technology" : "Adi Agus Sofian | IT infrastructure & Hospitality Technology";
   document.getElementById("copyStatus").textContent = "";
 }
 
